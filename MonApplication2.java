@@ -1,12 +1,11 @@
-public class MonApplication3 {
-
+public class MonApplication2 {
     public static void main (String arg[]) {
         System.out.println("Bienvenue dans mon application de gestion de ressources humaines");
         
     }
 }
 
-public class Employe {
+class Employe {
     
     private String nom;
     private String prenom;
